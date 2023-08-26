@@ -1,4 +1,4 @@
-Credits
+<color=purple>Credits
 
 -Dre1mer, Polar, Rez
 - placeholder
@@ -6,3 +6,4 @@ Credits
 - placeholder
 - placeholder
 - placeholder
+</color>
