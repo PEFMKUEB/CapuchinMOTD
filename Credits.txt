@@ -5,5 +5,4 @@
 - placeholder
 - placeholder
 - placeholder
-- placeholder
-</color>
+- placeholder</color>
